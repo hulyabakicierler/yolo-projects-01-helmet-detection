@@ -1,0 +1,9 @@
+names:
+- helmet
+nc: 1
+test: "C:/Users/H\xFClya/OneDrive - CAKABEY OKULLARI/Masa\xFCst\xFC/kask alg\u0131\
+  lama YOLOV8/dataset/images/test"
+train: "C:/Users/H\xFClya/OneDrive - CAKABEY OKULLARI/Masa\xFCst\xFC/kask alg\u0131\
+  lama YOLOV8/dataset/images/train"
+val: "C:/Users/H\xFClya/OneDrive - CAKABEY OKULLARI/Masa\xFCst\xFC/kask alg\u0131\
+  lama YOLOV8/dataset/images/val"
